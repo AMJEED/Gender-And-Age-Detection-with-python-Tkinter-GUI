@@ -8,10 +8,12 @@ Gui Of the program.
 <br>
 
 
-<center>![c2](https://user-images.githubusercontent.com/68582855/235352744-558d0b6b-aca5-4343-b6c8-165209c4359d.PNG)</center>
+<div align="center">   <img src = "https://user-images.githubusercontent.com/68582855/235352744-558d0b6b-aca5-4343-b6c8-165209c4359d.PNG">)</div>
 <br>
 <br>
-<center>![c1](https://user-images.githubusercontent.com/68582855/235352748-514c4985-a3c9-486c-b8f1-ed3cadb77f74.PNG)</center>
+<div align="center">   <img src = "https://user-images.githubusercontent.com/68582855/235352748-514c4985-a3c9-486c-b8f1-ed3cadb77f74.PNG">)</div>
+
 <br>
 <br>
-<center>![c3](https://user-images.githubusercontent.com/68582855/235352752-e4538a19-3fd2-4646-9741-a2c9503ff1cc.PNG)</center>
+<div align="center">   <img src = "https://user-images.githubusercontent.com/68582855/235352752-e4538a19-3fd2-4646-9741-a2c9503ff1cc.PNG">)</div>
+
