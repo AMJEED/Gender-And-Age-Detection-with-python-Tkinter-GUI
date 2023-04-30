@@ -3,9 +3,10 @@ The project is Gender and age prediction app .The system will be able to detect 
 (between intervals) ,Note that there may be chances that the model fail to correctly predict the image
 due to a lot of issues. The low quality input image or brightness or lighting effect on the images may
 confuse the model and it may give us wrong results.
-<br>
-<br>
 Gui Of the program.
+<br>
+<br>
+
 ![c2](https://user-images.githubusercontent.com/68582855/235352744-558d0b6b-aca5-4343-b6c8-165209c4359d.PNG)
 <br>
 <br>
