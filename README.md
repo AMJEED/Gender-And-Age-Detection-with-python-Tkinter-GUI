@@ -7,10 +7,11 @@ Gui Of the program.
 <br>
 <br>
 
-![c2](https://user-images.githubusercontent.com/68582855/235352744-558d0b6b-aca5-4343-b6c8-165209c4359d.PNG)
+
+<center>![c2](https://user-images.githubusercontent.com/68582855/235352744-558d0b6b-aca5-4343-b6c8-165209c4359d.PNG)</center>
 <br>
 <br>
-![c1](https://user-images.githubusercontent.com/68582855/235352748-514c4985-a3c9-486c-b8f1-ed3cadb77f74.PNG)
+<center>![c1](https://user-images.githubusercontent.com/68582855/235352748-514c4985-a3c9-486c-b8f1-ed3cadb77f74.PNG)</center>
 <br>
 <br>
-![c3](https://user-images.githubusercontent.com/68582855/235352752-e4538a19-3fd2-4646-9741-a2c9503ff1cc.PNG)
+<center>![c3](https://user-images.githubusercontent.com/68582855/235352752-e4538a19-3fd2-4646-9741-a2c9503ff1cc.PNG)</center>
